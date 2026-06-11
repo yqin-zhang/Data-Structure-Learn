@@ -99,7 +99,7 @@ void SLTPopBack(SLTNode** pphead)
 //pos之前插入
 void SLTInsert(SLTNode** pphead, SLTNode* pos, SLTDataType x)
 {
-	assert(pphead && *pphead);//链表不能为空
+	assert(pphead);
 	assert(pos);
 	//assert();
 	SLTNode* newNode = SLTBuyNode(x);
@@ -121,14 +121,68 @@ void SLTInsert(SLTNode** pphead, SLTNode* pos, SLTDataType x)
 	ptail->next = newNode;
 
 }
-//pos之后插入
-void SLTInertAfter(SLTNode** pphead, SLTNode* pos, SLTDataType x)
+//pos节点删除
+void SLTErase(SLTNode** pphead, SLTNode* pos)
 {
-	assert(pphead&&*pphead);//链表不能为空
+	assert(pphead && *pphead);
+	assert(pos);
+	if (pos == *pphead)
+	{
+		SLTNode* p = pos->next;
+		free(*pphead);
+		*pphead = p;
+	}
+
+	SLTNode* prev = *pphead;
+	while (prev->next != pos)
+	{
+		prev = prev->next;
+	}
+	//prev pos pos->next
+	prev->next = pos->next;
+	free(pos);
+	pos = NULL;
+}
+
+//pos之后插入
+void SLTInertAfter(SLTNode* pos, SLTDataType x)
+{
 	assert(pos);
 	SLTNode* newNode = SLTBuyNode(x);
 	newNode->next = pos->next;
 	pos->next = newNode;
+}
+//pos之前删除
+void SLTEraseFront(SLTNode** pphead, SLTNode* pos)
+{
+	assert(pphead && *pphead);
+	assert(pos);
+	//头节点不能为pos
+	assert(*pphead != pos);
+	if ((*pphead)->next==pos)
+	{
+		free(*pphead);
+		*pphead = pos;		
+	}
+	SLTNode* cur = *pphead;
+	while (cur->next->next != pos)
+	{
+		cur = cur->next;
+	}
+	SLTNode* p = cur->next;
+	cur->next = pos;
+	free(p);
+	p = NULL;
+}
+//pos之后删除
+void SLTEraseAfter(SLTNode* pos)
+{
+	//pos之后的节点要存在
+	assert(pos&&pos->next);
+	SLTNode* del = pos->next;
+	pos->next = del->next;
+	free(del);
+	del = NULL;
 }
 
 //查找pos结点
