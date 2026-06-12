@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github-DataStruct\\Data-Structure-Learn\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F7C9D7-4C5E-47E9-8A90-DC35A30A8D55}|\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784.vcxproj|C:\\github-DataStruct\\Data-Structure-Learn\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58F7C9D7-4C5E-47E9-8A90-DC35A30A8D55}|\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784.vcxproj|solutionrelative:\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\github-DataStruct\\Data-Structure-Learn\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\test.cpp",
+              "RelativeDocumentMoniker": "\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\test.cpp",
+              "ToolTip": "C:\\github-DataStruct\\Data-Structure-Learn\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\test.cpp",
+              "RelativeToolTip": "\u94FE\u8868\u7684\u56DE\u6587\u7ED3\u6784\\test.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-12T01:01:56.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
