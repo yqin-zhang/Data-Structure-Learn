@@ -47,10 +47,7 @@ void SLCheckCapacity(SL* ps)
 		//注意拷贝旧数据到新内存
 		if (ps->alist != NULL && ps->size > 0)
 		{
-			for (int i = 0; i < ps->size; i++)
-			{
-				tamp[i] = ps->alist[i];
-			}
+			memcpy(tamp, ps->alist, ps->size * sizeof(SLDataType));
 			free(ps->alist);  // 释放旧内存
 		}
 
