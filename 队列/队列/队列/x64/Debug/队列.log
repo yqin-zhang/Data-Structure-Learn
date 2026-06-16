@@ -1,0 +1,223 @@
+﻿  Queue.cpp
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(14,16): error C2011: “QueueNode”:“struct”类型重定义
+  (编译源文件“Queue.cpp”)
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(8,16):
+      参见“QueueNode”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,6): error C2182: “QueueInit”: “void” 这一使用无效
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,16): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,23): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(25,6): error C2182: “QueueDestroy”: “void” 这一使用无效
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(25,19): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(25,26): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,6): error C2182: “QueuePush”: “void” 这一使用无效
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,16): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,23): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,27): error C2275: “QDataType”: 应为表达式而不是类型
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,37): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(29,17): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(29,24): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(31,6): error C2182: “QueuePop”: “void” 这一使用无效
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(31,15): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(31,22): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(33,22): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(33,29): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(35,21): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(35,28): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(38,15): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(38,22): error C2065: “pq”: 未声明的标识符
+  (编译源文件“Queue.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(3,6): error C2182: “QueueInit”: “void” 这一使用无效
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(3,6): error C2374: “QueueInit”: 重定义；多次初始化
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,6):
+      参见“QueueInit”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(3,16): error C2065: “Queue”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(3,23): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(4,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(5,2): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(5,6): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(5,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(5,6): error C2146: 语法错误: 缺少“;”(在标识符“size”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(6,2): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(6,6): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(6,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(6,2): error C2086: “int pq”: 重定义
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(5,2):
+      参见“pq”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(6,6): error C2146: 语法错误: 缺少“;”(在标识符“phead”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(7,1): error C2059: 语法错误:“}”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(10,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(10,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(22,6): error C2182: “QueuePush”: “void” 这一使用无效
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(22,6): error C2374: “QueuePush”: 重定义；多次初始化
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,6):
+      参见“QueuePush”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(22,16): error C2065: “Queue”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(22,27): error C2275: “QDataType”: 应为表达式而不是类型
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(22,37): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(23,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(23,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(47,6): error C2374: “QueueEmpty”: 重定义；多次初始化
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(29,6):
+      参见“QueueEmpty”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(47,17): error C2065: “Queue”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(48,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(49,2): error C2062: 意外的类型“void” 
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(50,2): error C2059: 语法错误:“return”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(51,1): error C2059: 语法错误:“}”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(51,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(54,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(54,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(68,11): error C2374: “QueueFront”: 重定义；多次初始化
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(33,11):
+      参见“QueueFront”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(68,22): error C2065: “Queue”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(69,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(70,2): error C2062: 意外的类型“void” 
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(71,2): error C2062: 意外的类型“void” 
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(73,2): error C2059: 语法错误:“return”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(74,1): error C2059: 语法错误:“}”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(74,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(77,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(77,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(83,5): error C2374: “QueueSize”: 重定义；多次初始化
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(38,5):
+      参见“QueueSize”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(83,15): error C2065: “Queue”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(84,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(85,2): error C2062: 意外的类型“void” 
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(86,2): error C2059: 语法错误:“return”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(87,1): error C2059: 语法错误:“}”
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.cpp(87,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  test.cpp
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(14,16): error C2011: “QueueNode”:“struct”类型重定义
+  (编译源文件“test.cpp”)
+      C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(8,16):
+      参见“QueueNode”的声明
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,6): error C2182: “QueueInit”: “void” 这一使用无效
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,16): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(23,23): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(25,6): error C2182: “QueueDestroy”: “void” 这一使用无效
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(25,19): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(25,26): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,6): error C2182: “QueuePush”: “void” 这一使用无效
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,16): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,23): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,27): error C2275: “QDataType”: 应为表达式而不是类型
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(27,37): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(29,17): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(29,24): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(31,6): error C2182: “QueuePop”: “void” 这一使用无效
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(31,15): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(31,22): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(33,22): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(33,29): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(35,21): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(35,28): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(38,15): error C2065: “Queue”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\Queue.h(38,22): error C2065: “pq”: 未声明的标识符
+  (编译源文件“test.cpp”)
+  
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(6,2): error C2065: “Queue”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(6,8): error C2146: 语法错误: 缺少“;”(在标识符“pq”的前面)
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(6,8): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(8,13): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(9,13): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(10,13): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(11,13): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(12,13): error C2065: “pq”: 未声明的标识符
+C:\github-DataStruct\Data-Structure-Learn\队列\队列\test.cpp(15,16): error C2065: “pq”: 未声明的标识符
+  正在生成代码...
