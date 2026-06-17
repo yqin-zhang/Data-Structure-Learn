@@ -9,13 +9,13 @@ class Date
 	friend istream& operator>>(istream& in, Date& d);
 public:
 	Date(int year = 2020, int month = 1, int day = 1);
-	bool CheckDate();
+	bool CheckDate()const;
 
 	//剩下三种可不用实现
 	//没有申请资源
 	//根据年月判断天数
 	//短小的函数，直接定义在类中，内联函数，不展开栈帧
-	int GetMonthDay(int year, int month)
+	int GetMonthDay(int year, int month) const
 	{
 		assert(month > 0 && month < 13);
 		static int monthday[13] = { 0,31,28,31,30,31,30,31,31,30,31,30,31 };

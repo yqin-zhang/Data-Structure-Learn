@@ -1,5 +1,5 @@
 ﻿#include"Date.h"
-bool Date::CheckDate()
+bool Date::CheckDate() const
 {
 	if (_month < 1 || _month > 12
 		|| _day < 1 || _day > GetMonthDay(_year, _month))
@@ -90,8 +90,12 @@ Date Date::operator+(int day) const
 // d1 -= 天数
 Date& Date::operator-=(int day)
 {
+	if (day < 0)
+	{
+		return *this += -day;  
+	}
 	_day -= day;
-	while (_day < 0)
+	while (_day <= 0)
 	{
 		_day += GetMonthDay(_year, _month);
 		_month--;
