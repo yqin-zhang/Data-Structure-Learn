@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github-DataStruct\\Data-Structure-Learn\\\u76F8\u540C\u7684\u6811\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50ACEE6-2E47-436C-A7EF-8A416DF077CB}|\u76F8\u540C\u7684\u6811\\\u76F8\u540C\u7684\u6811.vcxproj|C:\\github-DataStruct\\Data-Structure-Learn\\\u76F8\u540C\u7684\u6811\\\u76F8\u540C\u7684\u6811\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E50ACEE6-2E47-436C-A7EF-8A416DF077CB}|\u76F8\u540C\u7684\u6811\\\u76F8\u540C\u7684\u6811.vcxproj|solutionrelative:\u76F8\u540C\u7684\u6811\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\github-DataStruct\\Data-Structure-Learn\\\u53E6\u4E00\u9897\u5B50\u6811\\\u53E6\u4E00\u9897\u5B50\u6811\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\github-DataStruct\\Data-Structure-Learn\\\u53E6\u4E00\u9897\u5B50\u6811\\\u53E6\u4E00\u9897\u5B50\u6811\\test.cpp",
+              "RelativeDocumentMoniker": "..\\\u53E6\u4E00\u9897\u5B50\u6811\\\u53E6\u4E00\u9897\u5B50\u6811\\test.cpp",
+              "ToolTip": "C:\\github-DataStruct\\Data-Structure-Learn\\\u53E6\u4E00\u9897\u5B50\u6811\\\u53E6\u4E00\u9897\u5B50\u6811\\test.cpp",
+              "RelativeToolTip": "..\\\u53E6\u4E00\u9897\u5B50\u6811\\\u53E6\u4E00\u9897\u5B50\u6811\\test.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-20T10:19:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\github-DataStruct\\Data-Structure-Learn\\\u76F8\u540C\u7684\u6811\\\u76F8\u540C\u7684\u6811\\test.cpp",
+              "RelativeDocumentMoniker": "\u76F8\u540C\u7684\u6811\\test.cpp",
+              "ToolTip": "C:\\github-DataStruct\\Data-Structure-Learn\\\u76F8\u540C\u7684\u6811\\\u76F8\u540C\u7684\u6811\\test.cpp*",
+              "RelativeToolTip": "\u76F8\u540C\u7684\u6811\\test.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-20T10:16:28.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
