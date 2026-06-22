@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github-DataStruct\\Data-Structure-Learn\\\u6392\u5E8F\u7B97\u6CD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B6148-D0BD-4B0F-A509-A4C83398BCC3}|\u6392\u5E8F\u7B97\u6CD5\\\u6392\u5E8F\u7B97\u6CD5.vcxproj|C:\\github-DataStruct\\Data-Structure-Learn\\\u6392\u5E8F\u7B97\u6CD5\\\u6392\u5E8F\u7B97\u6CD5\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F1B6148-D0BD-4B0F-A509-A4C83398BCC3}|\u6392\u5E8F\u7B97\u6CD5\\\u6392\u5E8F\u7B97\u6CD5.vcxproj|solutionrelative:\u6392\u5E8F\u7B97\u6CD5\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\github-DataStruct\\Data-Structure-Learn\\\u6392\u5E8F\u7B97\u6CD5\\\u6392\u5E8F\u7B97\u6CD5\\test.cpp",
+              "RelativeDocumentMoniker": "\u6392\u5E8F\u7B97\u6CD5\\test.cpp",
+              "ToolTip": "C:\\github-DataStruct\\Data-Structure-Learn\\\u6392\u5E8F\u7B97\u6CD5\\\u6392\u5E8F\u7B97\u6CD5\\test.cpp",
+              "RelativeToolTip": "\u6392\u5E8F\u7B97\u6CD5\\test.cpp",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAALMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-22T13:42:58.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
